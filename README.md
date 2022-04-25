@@ -1,4 +1,1 @@
-- 👋 Hi
-- 👀 I’m interested in Junior software developer roles
-- 🌱 I’m currently learning Python and Java script
-- 📫 How to reach me on Linkedin - https://www.linkedin.com/in/asnahassan/
+
